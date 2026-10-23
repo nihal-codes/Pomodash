@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "VG";
+  src: url(/home/codes/Dashboard/src/assets/fonts/VG5000-Regular.otf);
+}
+
+.font-VG {
+  font-family: "VG";
+}
